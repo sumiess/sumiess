@@ -1,4 +1,7 @@
-## Hi there 👋
+<img width="498" height="369" alt="Image" src="https://github.com/user-attachments/assets/73bb8d22-d6ed-469a-a397-8faef8ac1b31" />
+
+## Hello!
+
 
 <!--
 **sumiess/sumiess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
